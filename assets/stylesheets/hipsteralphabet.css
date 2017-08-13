@@ -1,0 +1,215 @@
+
+
+body{
+  padding: 0px;
+  margin: 0px;
+  background: #e5e1df;
+
+}
+
+header {
+    background: #49423a;
+    font-family: sans-serif;
+    font-size: 15px;
+    text-align: center;
+    position: fixed;
+    padding: 5px;
+    margin: 0px;
+
+
+    width: 100%;
+
+}
+
+ul {
+  margin: 0;
+  padding: 0;
+  padding-top: 15px;
+  padding-bottom: 15px;
+}
+}
+
+.allimages{
+  display: block;
+  padding-top: 55px;
+}
+
+
+p{
+  display: block;
+  font-family: 'Lato', sans-serif;
+  color: white;
+  font-size: 12px;
+  line-height: 25px;
+  letter-spacing: .25em;
+  text-align: left;
+  padding-left: 15px;
+
+
+
+}
+
+div{
+  display: block;
+}
+
+h1 {
+    font-family: 'Lato', sans-serif;
+    color: white;
+    font-size: 1.25em;
+    letter-spacing: 0.10em;
+    text-align: left;
+    display: inline;
+
+}
+
+h2 {
+    font-family: 'Lato', sans-serif;
+    color: white;
+    letter-spacing: 0.25em;
+    text-align: left;
+    border-bottom: 2px solid;
+    margin-left: 15px;
+    margin-right: 15px;
+
+}
+
+nav{
+  width:100%;
+  display: block;
+
+}
+
+.nav-collapse ul {
+    margin: 0px;
+    width: 100%;
+    text-align: center;
+    display: inline;
+    list-style: none;
+    padding-start: 0px;
+
+
+}
+
+
+
+
+.nav-collapse li {
+    width: 100%;
+    display: inline;
+    padding: 8px;
+    text-align: center;
+}
+
+a {
+    text-decoration: none;
+    color: white;
+    height: 100%;
+    width: 100%;
+    transition-duration: 1.5s;
+}
+
+a:hover{
+  color: #fbb535;
+}
+
+
+section {
+    width: 25%;
+    float: left;
+    height: 580px;
+
+}
+
+.main-image {
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+    margin-top: 50px;
+    margin-bottom: 0px;
+}
+
+.line-icon {
+    border-bottom: 2px solid white;
+    margin: 15px;
+    padding-bottom: 5px;
+
+}
+
+.line-icon img {
+    float: right;
+    position:relative;
+    bottom: 15px;
+    padding-left: 15px;
+    border-left: 2px solid white;
+
+
+}
+
+div {
+    display: block;
+}
+
+.robins {
+    background: #6fcbd5;
+}
+
+.yellow {
+    background: #fbb535;
+}
+
+.red {
+    background: #df4b35;
+}
+
+.beige {
+    background: #ccbeac;
+}
+
+.red {
+	background: #df4b35;
+}
+
+.mint {
+	background: #a1d082;
+}
+
+.brown {
+	background: #49423a;
+}
+
+.logo{
+  vertical-align: middle;
+  text-align: left;
+  vertical-align: middle;
+  float: left;
+  /*padding-top: 70px;*/
+  /*padding-bottom: -100px;*/
+
+}
+
+.logo img {
+  margin-top: 70px;
+}
+
+footer {
+    clear: left;
+    background: #49423a;
+    font-family: sans-serif;
+
+
+
+    display: block;
+    width:100%;
+    padding-bottom: 40px;
+    padding-top: 5px;
+
+}
+
+footer p{
+  text-align: center;
+  font-size: 11px;
+
+
+
+}
